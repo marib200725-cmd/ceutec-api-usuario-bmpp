@@ -1,4 +1,4 @@
 Flask 
-pymsql
+PyMySQL
 Flask-Cors
 gunicorn
